@@ -1,0 +1,2 @@
+This analysis will look over the life expectancy dataset to analyze what is significantly affecting the global life expectancy in humans. We will go in steps in order to find something substantial that could be correlated with life expectancy. Lastly, we will create a regression model in order to fit properly for the dependent variable Life Expectancy. We will see if the model will be able to accurately predict using the predictors imputed into the statistical regression model. 
+
